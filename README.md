@@ -11,17 +11,17 @@ link API:
 
 ### Documentasi Endpoint:
 
-`/api/login` - untuk login
-`/api/register` - untuk registrasi
-`/api/produk` - mengambil semua data produk
-`/api/produk` - untuk menambahkan data produk
-`/api/produk/{id}` - menampilkan produk sesuai id
-`/api/transaksi` - menampilkan transaksi
-`/api/transaksi` - manambahkan transaksi sesuai barang dan user dan ada
-`/api/transaksi/{id}` - menampilkan transaksi sesuai id
+- `/api/login` - untuk login
+- `/api/register` - untuk registrasi
+- `/api/produk` - mengambil semua data produk
+- `/api/produk` - untuk menambahkan data produk
+- `/api/produk/{id}` - menampilkan produk sesuai id
+- `/api/transaksi` - menampilkan transaksi
+- `/api/transaksi` - manambahkan transaksi sesuai barang dan user dan ada
+- `/api/transaksi/{id}` - menampilkan transaksi sesuai id
 
 ### Endpoint untuk UI:
 
-`/login` - untuk login
-`/registrasi` - untuk regitrasi
-`/dashboard` - untuk mengambil token jwt dan lainnya
+- `/login` - untuk login
+- `/registrasi` - untuk regitrasi
+- `/dashboard` - untuk mengambil token jwt dan lainnya

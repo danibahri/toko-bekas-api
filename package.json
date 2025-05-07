@@ -1,8 +1,9 @@
 {
   "name": "toko-bekas-api",
   "version": "1.0.0",
-  "description": "",
-  "main": "app.js",
+  "description": "Membuat API untuk toko bekas menggunakan Node.js dan Express.js",
+  "main": "index.js",
+  "start": "node index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

@@ -4,9 +4,9 @@ const path = require("path");
 require("dotenv").config();
 
 // Import routes
-const authRoutes = require("./routes/authRoutes");
-const productRoutes = require("./routes/productRoutes");
-const transactionRoutes = require("./routes/transactionRoutes");
+const authRoutes = require("../routes/authRoutes");
+const productRoutes = require("../routes/productRoutes");
+const transactionRoutes = require("../routes/transactionRoutes");
 
 // Create Express app
 const app = express();
